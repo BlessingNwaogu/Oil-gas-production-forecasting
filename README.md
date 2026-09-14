@@ -96,6 +96,14 @@ Users can inspect:
 
 ---
 
+## Forecasting Notebook
+
+The forecasting pipeline used for this project is included here:
+
+[View the ARPS forecasting notebook](production_forecast_refresh.ipynb)
+
+The notebook supports both local and Microsoft Fabric execution modes and demonstrates well-level ARPS fitting, forecast generation, model-quality checks and curated output creation used by the Power BI report.
+
 ## Technology Stack
 
 - Microsoft Fabric
